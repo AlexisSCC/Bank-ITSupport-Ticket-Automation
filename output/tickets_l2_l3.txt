@@ -1,0 +1,1708 @@
+L2/L3 Tickets - Generated on 2025-03-27 13:55:34
+================================================================================
+
+Ticket ID: 605332
+Date: 2025-03-08 03:04:56
+Customer ID: e295257f-7de2-4246-a5d8-eb2cf2d33cd3
+Product: Account Management System
+Description: Payment failed but money was deducted from my account
+Category: Transaction Error
+Root Cause: System Error
+Criticality: High
+L2/L3 Response: Initiate transaction reversal and notify customer
+--------------------------------------------------------------------------------
+
+Ticket ID: 696422
+Date: 2025-03-18 17:12:56
+Customer ID: e5fada80-255e-4db8-858f-dac294d8494f
+Product: Mobile Banking App
+Description: Incorrect interest calculation on my savings account
+Category: Data Discrepancy
+Root Cause: Data Issue
+Criticality: Medium
+L2/L3 Response: Implement data validation checks for affected module
+--------------------------------------------------------------------------------
+
+Ticket ID: 195047
+Date: 2025-03-26 09:02:56
+Customer ID: c0443d55-986d-4480-b44e-4b1c4dda9c28
+Product: Mobile Banking App
+Description: Payment failed but money was deducted from my account
+Category: Transaction Error
+Root Cause: System Error
+Criticality: High
+L2/L3 Response: Initiate transaction reversal and notify customer
+--------------------------------------------------------------------------------
+
+Ticket ID: 496681
+Date: 2025-03-07 09:44:56
+Customer ID: 26928504-5de7-496e-afea-f1293d35fbc5
+Product: Investment Dashboard
+Description: Biometric login not working on my device
+Category: Login Failure
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Escalate to security team for potential account compromise
+--------------------------------------------------------------------------------
+
+Ticket ID: 601883
+Date: 2025-03-04 17:17:56
+Customer ID: de59292c-7b68-41e1-98b8-9efe326623db
+Product: Loan Application System
+Description: Payment failed but money was deducted from my account
+Category: Transaction Error
+Root Cause: System Error
+Criticality: High
+L2/L3 Response: Verify integration with external payment gateway
+--------------------------------------------------------------------------------
+
+Ticket ID: 729847
+Date: 2025-03-11 21:28:56
+Customer ID: 0b23cd39-661a-4d7b-a8d5-cfc9bd7bda4c
+Product: Credit Card Portal
+Description: Biometric login not working on my device
+Category: Login Failure
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Reset biometric settings and re-enroll user's biometric data
+--------------------------------------------------------------------------------
+
+Ticket ID: 460456
+Date: 2025-03-11 20:51:56
+Customer ID: 3e2c6b2c-cdf2-4f6a-8b35-f0f9638d9061
+Product: Loan Application System
+Description: International transfer showing incorrect exchange rate
+Category: Transaction Error
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Initiate transaction reversal and notify customer
+--------------------------------------------------------------------------------
+
+Ticket ID: 912535
+Date: 2025-03-12 19:18:56
+Customer ID: 5e291bdb-6007-46eb-b55a-101d5eb40ad0
+Product: Investment Dashboard
+Description: Payment failed but money was deducted from my account. Day if structure glass me factor education.
+Category: Transaction Error
+Root Cause: System Error
+Criticality: High
+L2/L3 Response: Verify transaction in backend system and reconcile discrepancy
+--------------------------------------------------------------------------------
+
+Ticket ID: 133904
+Date: 2025-03-01 02:10:56
+Customer ID: cb040570-e5ce-482b-9b4e-b25e7d4ab97f
+Product: Mobile Banking App
+Description: Biometric login not working on my device
+Category: Login Failure
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Clear browser cache and cookies on user device
+--------------------------------------------------------------------------------
+
+Ticket ID: 263936
+Date: 2025-03-20 02:23:56
+Customer ID: 84832eb6-ca81-49ca-8b23-b1c9a98b8b29
+Product: Bill Payment Service
+Description: Payment failed but money was deducted from my account
+Category: Transaction Error
+Root Cause: System Error
+Criticality: High
+L2/L3 Response: Verify transaction in backend system and reconcile discrepancy
+--------------------------------------------------------------------------------
+
+Ticket ID: 79895
+Date: 2025-03-02 07:24:56
+Customer ID: 48e1f19e-0902-4fba-87ca-51ee6e1bd82f
+Product: Investment Dashboard
+Description: Payment failed but money was deducted from my account
+Category: Transaction Error
+Root Cause: System Error
+Criticality: High
+L2/L3 Response: Check for duplicate transaction IDs in database
+--------------------------------------------------------------------------------
+
+Ticket ID: 181956
+Date: 2025-03-08 19:57:56
+Customer ID: 4770bee8-f9bd-4c94-a39e-bd6a9401e01d
+Product: Account Management System
+Description: Payment failed but money was deducted from my account
+Category: Transaction Error
+Root Cause: System Error
+Criticality: High
+L2/L3 Response: Escalate to payment processing team for investigation
+--------------------------------------------------------------------------------
+
+Ticket ID: 644702
+Date: 2025-03-01 03:08:56
+Customer ID: e4e87fa0-ffb3-4721-8e70-45571a00a626
+Product: Bill Payment Service
+Description: International transfer showing incorrect exchange rate
+Category: Transaction Error
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Escalate to payment processing team for investigation
+--------------------------------------------------------------------------------
+
+Ticket ID: 798678
+Date: 2025-03-23 02:07:56
+Customer ID: 3c7c4c64-d231-4c7d-ba63-4a0844cf2495
+Product: Mobile Banking App
+Description: Payment failed but money was deducted from my account. War economic close happy window.
+Category: Transaction Error
+Root Cause: System Error
+Criticality: High
+L2/L3 Response: Verify integration with external payment gateway
+--------------------------------------------------------------------------------
+
+Ticket ID: 398428
+Date: 2025-03-26 15:11:56
+Customer ID: d4ccef73-e688-490a-a079-c0a59408437d
+Product: Loan Application System
+Description: Extremely slow loading times for all screens
+Category: App Performance
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Deploy hotfix for identified performance bottleneck
+--------------------------------------------------------------------------------
+
+Ticket ID: 486923
+Date: 2025-02-26 19:12:56
+Customer ID: f9fa2510-696d-4eb8-87d8-ece6c17cb4c9
+Product: Investment Dashboard
+Description: Payment failed but money was deducted from my account
+Category: Transaction Error
+Root Cause: System Error
+Criticality: High
+L2/L3 Response: Verify transaction in backend system and reconcile discrepancy
+--------------------------------------------------------------------------------
+
+Ticket ID: 462943
+Date: 2025-02-28 05:53:56
+Customer ID: 4faf06bb-cfd8-4591-8baa-89d5192ade68
+Product: Credit Card Portal
+Description: Extremely slow loading times for all screens. My bed mother successful a.
+Category: App Performance
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Check for conflicting background processes on user device
+--------------------------------------------------------------------------------
+
+Ticket ID: 589217
+Date: 2025-03-08 10:45:56
+Customer ID: d4bdb38d-2f79-4335-a55f-f6d20c5c69b7
+Product: Investment Dashboard
+Description: Payment failed but money was deducted from my account
+Category: Transaction Error
+Root Cause: System Error
+Criticality: High
+L2/L3 Response: Verify integration with external payment gateway
+--------------------------------------------------------------------------------
+
+Ticket ID: 60633
+Date: 2025-02-25 05:43:56
+Customer ID: 051dfd20-e87c-4721-9831-46d1b903f7ee
+Product: Loan Application System
+Description: International transfer showing incorrect exchange rate
+Category: Transaction Error
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Escalate to payment processing team for investigation
+--------------------------------------------------------------------------------
+
+Ticket ID: 664187
+Date: 2025-03-12 13:21:56
+Customer ID: 9c3a2c48-b5cb-42fc-b3b2-8a2655212b53
+Product: ATM Services
+Description: Extremely slow loading times for all screens
+Category: App Performance
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Optimize database queries for user's account
+--------------------------------------------------------------------------------
+
+Ticket ID: 440346
+Date: 2025-03-15 00:19:56
+Customer ID: d374796a-1a6e-4e18-bc59-6a3905db71c6
+Product: Web Portal
+Description: Biometric login not working on my device
+Category: Login Failure
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Escalate to security team for potential account compromise
+--------------------------------------------------------------------------------
+
+Ticket ID: 840754
+Date: 2025-03-26 12:35:56
+Customer ID: 4ee87b6a-f64a-448e-b7d5-2d5b2ba039b7
+Product: Web Portal
+Description: Extremely slow loading times for all screens
+Category: App Performance
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Deploy hotfix for identified performance bottleneck
+--------------------------------------------------------------------------------
+
+Ticket ID: 374129
+Date: 2025-03-06 13:06:56
+Customer ID: 972ccf98-d500-47b7-b9c7-4ee98fbf8388
+Product: Bill Payment Service
+Description: Biometric login not working on my device. Show general including speak table bank reflect evening.
+Category: Login Failure
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Reset user credentials and send new temporary password
+--------------------------------------------------------------------------------
+
+Ticket ID: 32097
+Date: 2025-02-25 15:08:56
+Customer ID: 0bf6c6f8-779e-45c1-bae2-649994117a62
+Product: Mobile Banking App
+Description: International transfer showing incorrect exchange rate. Decision offer bring finally.
+Category: Transaction Error
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Escalate to payment processing team for investigation
+--------------------------------------------------------------------------------
+
+Ticket ID: 679438
+Date: 2025-03-21 23:30:56
+Customer ID: 4b8b6a66-90b0-4cc3-9c13-65061428f164
+Product: Investment Dashboard
+Description: International transfer showing incorrect exchange rate. Success seek west travel TV leave.
+Category: Transaction Error
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Check for duplicate transaction IDs in database
+--------------------------------------------------------------------------------
+
+Ticket ID: 800881
+Date: 2025-03-25 17:07:56
+Customer ID: 2d7fdc81-817e-4e5d-8fd2-9865d2b17040
+Product: Mobile Banking App
+Description: Biometric login not working on my device
+Category: Login Failure
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Reset biometric settings and re-enroll user's biometric data
+--------------------------------------------------------------------------------
+
+Ticket ID: 635584
+Date: 2025-03-20 18:01:56
+Customer ID: d48c199f-803d-4dcf-a5ef-8f77fa58b590
+Product: Web Portal
+Description: Incorrect interest calculation on my savings account
+Category: Data Discrepancy
+Root Cause: Data Issue
+Criticality: Medium
+L2/L3 Response: Verify transaction logs against core banking system
+--------------------------------------------------------------------------------
+
+Ticket ID: 707380
+Date: 2025-03-05 05:04:56
+Customer ID: ef3f034b-985b-4ed1-9948-84068821ce1b
+Product: Account Management System
+Description: Payment failed but money was deducted from my account
+Category: Transaction Error
+Root Cause: System Error
+Criticality: High
+L2/L3 Response: Verify transaction in backend system and reconcile discrepancy
+--------------------------------------------------------------------------------
+
+Ticket ID: 388317
+Date: 2025-03-25 01:28:56
+Customer ID: 48de03f9-eaf5-4f3e-a14d-af8b398217d0
+Product: Bill Payment Service
+Description: Payment failed but money was deducted from my account
+Category: Transaction Error
+Root Cause: System Error
+Criticality: High
+L2/L3 Response: Verify transaction in backend system and reconcile discrepancy
+--------------------------------------------------------------------------------
+
+Ticket ID: 695337
+Date: 2025-03-05 12:24:56
+Customer ID: c74c970c-88ca-4910-821a-3ed77d188ba9
+Product: Loan Application System
+Description: Extremely slow loading times for all screens. Than door try add friend Mrs two.
+Category: App Performance
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Check for conflicting background processes on user device
+--------------------------------------------------------------------------------
+
+Ticket ID: 720955
+Date: 2025-03-06 13:29:56
+Customer ID: 4a26abf5-00d4-4aea-92e0-721e76c46777
+Product: Bill Payment Service
+Description: Incorrect interest calculation on my savings account
+Category: Data Discrepancy
+Root Cause: Data Issue
+Criticality: Medium
+L2/L3 Response: Run data reconciliation process for affected accounts
+--------------------------------------------------------------------------------
+
+Ticket ID: 66613
+Date: 2025-03-05 23:24:56
+Customer ID: 870a352e-675f-49cb-99d5-5532a4140c8a
+Product: Account Management System
+Description: International transfer showing incorrect exchange rate
+Category: Transaction Error
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Check for duplicate transaction IDs in database
+--------------------------------------------------------------------------------
+
+Ticket ID: 446457
+Date: 2025-03-18 10:27:56
+Customer ID: 43c19428-2b5a-41f7-877a-5b813168d159
+Product: Credit Card Portal
+Description: International transfer showing incorrect exchange rate
+Category: Transaction Error
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Check for duplicate transaction IDs in database
+--------------------------------------------------------------------------------
+
+Ticket ID: 158711
+Date: 2025-03-21 14:47:56
+Customer ID: e4ec5d2c-baf7-4803-b577-66bdabbcfec4
+Product: Web Portal
+Description: International transfer showing incorrect exchange rate
+Category: Transaction Error
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Escalate to payment processing team for investigation
+--------------------------------------------------------------------------------
+
+Ticket ID: 680575
+Date: 2025-03-27 12:49:56
+Customer ID: 1947a2de-1490-4bfe-b34b-ecc99c374834
+Product: Bill Payment Service
+Description: International transfer showing incorrect exchange rate. Rest decade performance move big.
+Category: Transaction Error
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Check for duplicate transaction IDs in database
+--------------------------------------------------------------------------------
+
+Ticket ID: 155097
+Date: 2025-03-11 11:04:56
+Customer ID: aacfa6ab-b7be-4f0f-b0ab-d045c45b3f1b
+Product: Investment Dashboard
+Description: Payment failed but money was deducted from my account
+Category: Transaction Error
+Root Cause: System Error
+Criticality: High
+L2/L3 Response: Escalate to payment processing team for investigation
+--------------------------------------------------------------------------------
+
+Ticket ID: 957718
+Date: 2025-02-28 23:07:56
+Customer ID: 817abe4b-ef78-427a-834d-b407e73fbd62
+Product: Mobile Banking App
+Description: Extremely slow loading times for all screens
+Category: App Performance
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Deploy hotfix for identified performance bottleneck
+--------------------------------------------------------------------------------
+
+Ticket ID: 23426
+Date: 2025-03-25 08:41:56
+Customer ID: 351310b9-c60f-4911-a2e4-67fc0dd917be
+Product: Loan Application System
+Description: International transfer showing incorrect exchange rate. Cost not treat not history.
+Category: Transaction Error
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Verify integration with external payment gateway
+--------------------------------------------------------------------------------
+
+Ticket ID: 26547
+Date: 2025-03-17 21:44:56
+Customer ID: 0bf91eb5-3256-47ed-a236-a1ced890f3cc
+Product: Account Management System
+Description: Biometric login not working on my device
+Category: Login Failure
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Clear browser cache and cookies on user device
+--------------------------------------------------------------------------------
+
+Ticket ID: 437903
+Date: 2025-02-24 23:27:56
+Customer ID: c2668215-ae31-41ba-a1ee-af3a0415e665
+Product: Mobile Banking App
+Description: International transfer showing incorrect exchange rate
+Category: Transaction Error
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Initiate transaction reversal and notify customer
+--------------------------------------------------------------------------------
+
+Ticket ID: 116612
+Date: 2025-03-12 04:44:56
+Customer ID: 23a3873a-6b9e-419f-a5dc-0c7b68f2854a
+Product: ATM Services
+Description: International transfer showing incorrect exchange rate. Main pretty join offer accept raise door.
+Category: Transaction Error
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Verify integration with external payment gateway
+--------------------------------------------------------------------------------
+
+Ticket ID: 542634
+Date: 2025-03-14 09:12:56
+Customer ID: f001fd38-8f1c-43af-a59c-d4b66af327ed
+Product: Mobile Banking App
+Description: Biometric login not working on my device. Face station option production wife kitchen.
+Category: Login Failure
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Escalate to security team for potential account compromise
+--------------------------------------------------------------------------------
+
+Ticket ID: 694680
+Date: 2025-03-18 22:27:56
+Customer ID: 185dfe9d-900f-4b47-892d-b28e41030b36
+Product: Loan Application System
+Description: Incorrect interest calculation on my savings account
+Category: Data Discrepancy
+Root Cause: Data Issue
+Criticality: Medium
+L2/L3 Response: Restore data from last known good backup
+--------------------------------------------------------------------------------
+
+Ticket ID: 795545
+Date: 2025-03-24 21:35:56
+Customer ID: afa7005e-fc77-43fc-93e6-8f023b49391f
+Product: Loan Application System
+Description: International transfer showing incorrect exchange rate
+Category: Transaction Error
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Check for duplicate transaction IDs in database
+--------------------------------------------------------------------------------
+
+Ticket ID: 252376
+Date: 2025-03-19 15:06:56
+Customer ID: f27ee2d6-c4dc-4c92-95c7-f7f5aedfe101
+Product: ATM Services
+Description: Extremely slow loading times for all screens
+Category: App Performance
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Check for conflicting background processes on user device
+--------------------------------------------------------------------------------
+
+Ticket ID: 544062
+Date: 2025-03-03 03:32:56
+Customer ID: 4658bd0e-7745-48f7-bf68-045cfef8606c
+Product: Web Portal
+Description: International transfer showing incorrect exchange rate
+Category: Transaction Error
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Escalate to payment processing team for investigation
+--------------------------------------------------------------------------------
+
+Ticket ID: 445250
+Date: 2025-03-04 21:45:56
+Customer ID: 51dfca0b-f5ae-42ee-a50d-ed311a097b97
+Product: Mobile Banking App
+Description: Extremely slow loading times for all screens
+Category: App Performance
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Escalate to dev team for memory leak investigation
+--------------------------------------------------------------------------------
+
+Ticket ID: 741482
+Date: 2025-03-12 08:40:56
+Customer ID: 9e78ceb2-e1be-40a6-bb5c-609f36e785ac
+Product: ATM Services
+Description: Payment failed but money was deducted from my account
+Category: Transaction Error
+Root Cause: System Error
+Criticality: High
+L2/L3 Response: Initiate transaction reversal and notify customer
+--------------------------------------------------------------------------------
+
+Ticket ID: 403322
+Date: 2025-03-24 01:05:56
+Customer ID: e07cbbce-65ae-4430-9173-0f8d5f2a998b
+Product: Mobile Banking App
+Description: Biometric login not working on my device
+Category: Login Failure
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Escalate to security team for potential account compromise
+--------------------------------------------------------------------------------
+
+Ticket ID: 982790
+Date: 2025-03-14 15:31:56
+Customer ID: 0736062f-31ae-4721-a4e9-1ce78a73bd44
+Product: Bill Payment Service
+Description: Biometric login not working on my device
+Category: Login Failure
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Clear browser cache and cookies on user device
+--------------------------------------------------------------------------------
+
+Ticket ID: 533159
+Date: 2025-03-20 23:37:56
+Customer ID: 50faa873-6bf9-463b-a455-53feaccbc25a
+Product: ATM Services
+Description: Extremely slow loading times for all screens. Style who toward stage number though.
+Category: App Performance
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Escalate to dev team for memory leak investigation
+--------------------------------------------------------------------------------
+
+Ticket ID: 937025
+Date: 2025-03-16 12:06:56
+Customer ID: da4370fb-14d9-44be-ab58-14268b4a1b4b
+Product: Investment Dashboard
+Description: Extremely slow loading times for all screens
+Category: App Performance
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Deploy hotfix for identified performance bottleneck
+--------------------------------------------------------------------------------
+
+Ticket ID: 378056
+Date: 2025-03-17 15:14:56
+Customer ID: 18c506e3-f591-4a8f-89ad-fec047dff978
+Product: Credit Card Portal
+Description: Payment failed but money was deducted from my account
+Category: Transaction Error
+Root Cause: System Error
+Criticality: High
+L2/L3 Response: Initiate transaction reversal and notify customer
+--------------------------------------------------------------------------------
+
+Ticket ID: 709392
+Date: 2025-03-08 03:23:56
+Customer ID: 947a1cef-7818-4225-8e9e-ccee7edbaa15
+Product: ATM Services
+Description: Biometric login not working on my device
+Category: Login Failure
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Clear browser cache and cookies on user device
+--------------------------------------------------------------------------------
+
+Ticket ID: 157643
+Date: 2025-03-06 22:51:56
+Customer ID: ae888c04-aa09-4f32-9d08-5248ce290f70
+Product: Account Management System
+Description: Payment failed but money was deducted from my account. Interview among mind meet.
+Category: Transaction Error
+Root Cause: System Error
+Criticality: High
+L2/L3 Response: Initiate transaction reversal and notify customer
+--------------------------------------------------------------------------------
+
+Ticket ID: 743838
+Date: 2025-03-13 03:27:56
+Customer ID: d996a7f4-f535-4bc3-b6a1-973d95628a33
+Product: Web Portal
+Description: Payment failed but money was deducted from my account
+Category: Transaction Error
+Root Cause: System Error
+Criticality: High
+L2/L3 Response: Initiate transaction reversal and notify customer
+--------------------------------------------------------------------------------
+
+Ticket ID: 173752
+Date: 2025-03-12 12:29:56
+Customer ID: 900ede3d-e2d5-4475-bdef-2a85e60a56fe
+Product: Loan Application System
+Description: Incorrect interest calculation on my savings account
+Category: Data Discrepancy
+Root Cause: Data Issue
+Criticality: Medium
+L2/L3 Response: Escalate to data integrity team for investigation
+--------------------------------------------------------------------------------
+
+Ticket ID: 683126
+Date: 2025-03-21 15:30:56
+Customer ID: b505e692-ba7f-4ce9-919e-f2ba939bafe6
+Product: Bill Payment Service
+Description: Incorrect interest calculation on my savings account
+Category: Data Discrepancy
+Root Cause: Data Issue
+Criticality: Medium
+L2/L3 Response: Restore data from last known good backup
+--------------------------------------------------------------------------------
+
+Ticket ID: 832293
+Date: 2025-03-13 21:58:56
+Customer ID: 4a6c0939-1789-4909-a093-a585cfd73ad2
+Product: Bill Payment Service
+Description: Incorrect interest calculation on my savings account. Tax box western article free.
+Category: Data Discrepancy
+Root Cause: Data Issue
+Criticality: Medium
+L2/L3 Response: Verify transaction logs against core banking system
+--------------------------------------------------------------------------------
+
+Ticket ID: 684055
+Date: 2025-03-22 01:30:56
+Customer ID: e5cba6d9-da12-40b1-a0d7-9e44b0f5e2e0
+Product: Loan Application System
+Description: Payment failed but money was deducted from my account
+Category: Transaction Error
+Root Cause: System Error
+Criticality: High
+L2/L3 Response: Check for duplicate transaction IDs in database
+--------------------------------------------------------------------------------
+
+Ticket ID: 329168
+Date: 2025-03-10 19:22:56
+Customer ID: d6471049-1075-4c83-878c-ef6dcc7fd5b7
+Product: Bill Payment Service
+Description: Incorrect interest calculation on my savings account
+Category: Data Discrepancy
+Root Cause: Data Issue
+Criticality: Medium
+L2/L3 Response: Escalate to data integrity team for investigation
+--------------------------------------------------------------------------------
+
+Ticket ID: 632382
+Date: 2025-03-06 08:21:56
+Customer ID: cbc5170c-1534-41e9-987f-3d9599d50762
+Product: Investment Dashboard
+Description: Incorrect interest calculation on my savings account
+Category: Data Discrepancy
+Root Cause: Data Issue
+Criticality: Medium
+L2/L3 Response: Escalate to data integrity team for investigation
+--------------------------------------------------------------------------------
+
+Ticket ID: 969670
+Date: 2025-03-13 04:20:56
+Customer ID: 27dfc77b-56a7-4873-a806-4b1071b70a06
+Product: Mobile Banking App
+Description: Payment failed but money was deducted from my account. Light not choice most speech third listen.
+Category: Transaction Error
+Root Cause: System Error
+Criticality: High
+L2/L3 Response: Verify integration with external payment gateway
+--------------------------------------------------------------------------------
+
+Ticket ID: 38573
+Date: 2025-03-20 19:51:56
+Customer ID: 822ee0cd-ece4-4f42-8ef3-766be338eb2c
+Product: Account Management System
+Description: Biometric login not working on my device
+Category: Login Failure
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Update authentication service and restart
+--------------------------------------------------------------------------------
+
+Ticket ID: 83506
+Date: 2025-02-25 23:19:56
+Customer ID: 76bf4dcf-baff-4695-ab95-0b1391365e79
+Product: Loan Application System
+Description: Extremely slow loading times for all screens. Western amount free baby town group remain newspaper.
+Category: App Performance
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Optimize database queries for user's account
+--------------------------------------------------------------------------------
+
+Ticket ID: 190688
+Date: 2025-03-01 13:09:56
+Customer ID: cb292a5b-9ed5-4641-ae55-91178057c9e4
+Product: Bill Payment Service
+Description: Biometric login not working on my device. Machine pattern hand learn develop.
+Category: Login Failure
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Reset user credentials and send new temporary password
+--------------------------------------------------------------------------------
+
+Ticket ID: 976124
+Date: 2025-03-18 16:35:56
+Customer ID: cbbca585-ebe8-434f-a34c-9b57f8202aba
+Product: Investment Dashboard
+Description: Incorrect interest calculation on my savings account
+Category: Data Discrepancy
+Root Cause: Data Issue
+Criticality: Medium
+L2/L3 Response: Restore data from last known good backup
+--------------------------------------------------------------------------------
+
+Ticket ID: 324748
+Date: 2025-03-23 08:47:56
+Customer ID: 882d9116-afd7-49df-ad70-ff9d4d0a7152
+Product: Loan Application System
+Description: Payment failed but money was deducted from my account. Reason baby how treat reflect.
+Category: Transaction Error
+Root Cause: System Error
+Criticality: High
+L2/L3 Response: Verify integration with external payment gateway
+--------------------------------------------------------------------------------
+
+Ticket ID: 462887
+Date: 2025-02-25 18:43:56
+Customer ID: ce1c9266-5ec6-4014-a7a7-bd3a9bbb0fa0
+Product: Web Portal
+Description: Payment failed but money was deducted from my account
+Category: Transaction Error
+Root Cause: System Error
+Criticality: High
+L2/L3 Response: Verify transaction in backend system and reconcile discrepancy
+--------------------------------------------------------------------------------
+
+Ticket ID: 661919
+Date: 2025-03-10 05:02:56
+Customer ID: b24948c4-45e5-47a0-b61e-9d799f2d067b
+Product: Credit Card Portal
+Description: Incorrect interest calculation on my savings account
+Category: Data Discrepancy
+Root Cause: Data Issue
+Criticality: Medium
+L2/L3 Response: Restore data from last known good backup
+--------------------------------------------------------------------------------
+
+Ticket ID: 983498
+Date: 2025-03-23 20:00:56
+Customer ID: c00f6da7-b155-40a1-b6ad-5d98d37e717f
+Product: ATM Services
+Description: Biometric login not working on my device
+Category: Login Failure
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Clear browser cache and cookies on user device
+--------------------------------------------------------------------------------
+
+Ticket ID: 649676
+Date: 2025-03-09 16:16:56
+Customer ID: f48dd581-364b-4674-a232-e2bb29ca54d0
+Product: Credit Card Portal
+Description: Payment failed but money was deducted from my account
+Category: Transaction Error
+Root Cause: System Error
+Criticality: High
+L2/L3 Response: Check for duplicate transaction IDs in database
+--------------------------------------------------------------------------------
+
+Ticket ID: 565756
+Date: 2025-03-22 07:51:56
+Customer ID: 94f79ee4-e97c-48bd-a0c2-8474fc3243ef
+Product: ATM Services
+Description: Payment failed but money was deducted from my account
+Category: Transaction Error
+Root Cause: System Error
+Criticality: High
+L2/L3 Response: Verify integration with external payment gateway
+--------------------------------------------------------------------------------
+
+Ticket ID: 491749
+Date: 2025-03-03 22:25:56
+Customer ID: 49cbd53c-02a8-4652-894a-5745cee3ce48
+Product: Loan Application System
+Description: Incorrect interest calculation on my savings account
+Category: Data Discrepancy
+Root Cause: Data Issue
+Criticality: Medium
+L2/L3 Response: Restore data from last known good backup
+--------------------------------------------------------------------------------
+
+Ticket ID: 537230
+Date: 2025-03-23 13:39:56
+Customer ID: 0566e705-a7c1-4611-9aa9-3c00a59e6f0a
+Product: Mobile Banking App
+Description: Extremely slow loading times for all screens
+Category: App Performance
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Check for conflicting background processes on user device
+--------------------------------------------------------------------------------
+
+Ticket ID: 663121
+Date: 2025-03-11 11:44:56
+Customer ID: 6d242036-76c0-4b35-b1e7-9cd9cfba52d1
+Product: Bill Payment Service
+Description: Payment failed but money was deducted from my account
+Category: Transaction Error
+Root Cause: System Error
+Criticality: High
+L2/L3 Response: Initiate transaction reversal and notify customer
+--------------------------------------------------------------------------------
+
+Ticket ID: 989259
+Date: 2025-03-14 11:45:56
+Customer ID: 9c4eadc1-fc0d-4532-960c-d8d941e2bae9
+Product: Account Management System
+Description: Biometric login not working on my device. Model agree especially almost spring data last.
+Category: Login Failure
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Reset biometric settings and re-enroll user's biometric data
+--------------------------------------------------------------------------------
+
+Ticket ID: 738008
+Date: 2025-03-11 07:33:56
+Customer ID: 4bc114b1-6499-40d9-bb73-41b726f09169
+Product: Investment Dashboard
+Description: International transfer showing incorrect exchange rate. Water note town eight effort.
+Category: Transaction Error
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Check for duplicate transaction IDs in database
+--------------------------------------------------------------------------------
+
+Ticket ID: 496627
+Date: 2025-03-26 01:54:56
+Customer ID: 84aadbf5-1b30-4465-b1a3-aa3b7f50fb3f
+Product: Account Management System
+Description: International transfer showing incorrect exchange rate. Condition he court note.
+Category: Transaction Error
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Check for duplicate transaction IDs in database
+--------------------------------------------------------------------------------
+
+Ticket ID: 385778
+Date: 2025-03-16 13:14:56
+Customer ID: 5b526e7e-3ba5-425a-b36a-bf8bbbf11c49
+Product: Bill Payment Service
+Description: Extremely slow loading times for all screens
+Category: App Performance
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Escalate to dev team for memory leak investigation
+--------------------------------------------------------------------------------
+
+Ticket ID: 876621
+Date: 2025-03-18 19:43:56
+Customer ID: cddac8ad-13cd-4aec-9cca-1d334ca17ae7
+Product: Loan Application System
+Description: Incorrect interest calculation on my savings account
+Category: Data Discrepancy
+Root Cause: Data Issue
+Criticality: Medium
+L2/L3 Response: Run data reconciliation process for affected accounts
+--------------------------------------------------------------------------------
+
+Ticket ID: 82468
+Date: 2025-03-06 19:20:56
+Customer ID: 07764559-f160-41a2-ab79-124a89c1fdfa
+Product: Loan Application System
+Description: Payment failed but money was deducted from my account
+Category: Transaction Error
+Root Cause: System Error
+Criticality: High
+L2/L3 Response: Verify integration with external payment gateway
+--------------------------------------------------------------------------------
+
+Ticket ID: 562356
+Date: 2025-03-12 14:05:56
+Customer ID: f77bc741-aa8e-4b9e-94c2-41a4ed3be609
+Product: Bill Payment Service
+Description: International transfer showing incorrect exchange rate
+Category: Transaction Error
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Check for duplicate transaction IDs in database
+--------------------------------------------------------------------------------
+
+Ticket ID: 751039
+Date: 2025-03-19 19:37:56
+Customer ID: 6ebc645d-3bd2-468c-a376-e2dc95b11b47
+Product: Investment Dashboard
+Description: Biometric login not working on my device
+Category: Login Failure
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Reset user credentials and send new temporary password
+--------------------------------------------------------------------------------
+
+Ticket ID: 244611
+Date: 2025-03-24 16:37:56
+Customer ID: 9d25702c-7091-4b3c-a10a-f1361ae18df6
+Product: Investment Dashboard
+Description: Incorrect interest calculation on my savings account
+Category: Data Discrepancy
+Root Cause: Data Issue
+Criticality: Medium
+L2/L3 Response: Implement data validation checks for affected module
+--------------------------------------------------------------------------------
+
+Ticket ID: 716765
+Date: 2025-03-12 23:57:56
+Customer ID: 3dfa03b0-316e-4a92-bb8a-be590176ca63
+Product: Mobile Banking App
+Description: Payment failed but money was deducted from my account. Simply customer they world.
+Category: Transaction Error
+Root Cause: System Error
+Criticality: High
+L2/L3 Response: Check for duplicate transaction IDs in database
+--------------------------------------------------------------------------------
+
+Ticket ID: 413500
+Date: 2025-03-12 09:18:56
+Customer ID: 08f2b52a-0493-4cf7-9d19-c17d4201894f
+Product: Loan Application System
+Description: International transfer showing incorrect exchange rate
+Category: Transaction Error
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Check for duplicate transaction IDs in database
+--------------------------------------------------------------------------------
+
+Ticket ID: 567958
+Date: 2025-03-24 20:09:56
+Customer ID: f98a9733-1c2d-4a90-8181-58c5179124c3
+Product: Web Portal
+Description: Incorrect interest calculation on my savings account. None election road mission moment.
+Category: Data Discrepancy
+Root Cause: Data Issue
+Criticality: Medium
+L2/L3 Response: Verify transaction logs against core banking system
+--------------------------------------------------------------------------------
+
+Ticket ID: 645167
+Date: 2025-02-28 06:24:56
+Customer ID: 521dbdf3-fa0a-43cd-9d6b-9c53d4a13fe0
+Product: Loan Application System
+Description: Incorrect interest calculation on my savings account
+Category: Data Discrepancy
+Root Cause: Data Issue
+Criticality: Medium
+L2/L3 Response: Verify transaction logs against core banking system
+--------------------------------------------------------------------------------
+
+Ticket ID: 657316
+Date: 2025-02-25 08:43:56
+Customer ID: 95fc5ec3-3dce-46cb-94b9-ba4f7e57ea61
+Product: Loan Application System
+Description: Biometric login not working on my device. Investment oil deal mouth.
+Category: Login Failure
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Reset biometric settings and re-enroll user's biometric data
+--------------------------------------------------------------------------------
+
+Ticket ID: 21471
+Date: 2025-02-27 07:47:56
+Customer ID: f8d1598c-bf43-4ca7-9aed-06c0de323840
+Product: Web Portal
+Description: Incorrect interest calculation on my savings account. Few make in on.
+Category: Data Discrepancy
+Root Cause: Data Issue
+Criticality: Medium
+L2/L3 Response: Escalate to data integrity team for investigation
+--------------------------------------------------------------------------------
+
+Ticket ID: 796114
+Date: 2025-03-11 13:25:56
+Customer ID: 935fdf36-6142-4e25-a561-3aec542a451c
+Product: Web Portal
+Description: Extremely slow loading times for all screens
+Category: App Performance
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Optimize database queries for user's account
+--------------------------------------------------------------------------------
+
+Ticket ID: 185449
+Date: 2025-03-21 16:51:56
+Customer ID: b52f1c0c-a9fa-4b3c-b410-0cee3477984e
+Product: Mobile Banking App
+Description: International transfer showing incorrect exchange rate
+Category: Transaction Error
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Verify transaction in backend system and reconcile discrepancy
+--------------------------------------------------------------------------------
+
+Ticket ID: 343422
+Date: 2025-03-22 14:22:56
+Customer ID: 760e9334-2231-4fc0-916f-9fe7710b3bd1
+Product: Credit Card Portal
+Description: Biometric login not working on my device
+Category: Login Failure
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Reset user credentials and send new temporary password
+--------------------------------------------------------------------------------
+
+Ticket ID: 806486
+Date: 2025-03-22 09:29:56
+Customer ID: 1f8b96e4-7cd2-498e-9bfe-bf0c0ee3d1e9
+Product: Investment Dashboard
+Description: Biometric login not working on my device. Fact call gun until.
+Category: Login Failure
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Reset biometric settings and re-enroll user's biometric data
+--------------------------------------------------------------------------------
+
+Ticket ID: 209416
+Date: 2025-02-26 15:52:56
+Customer ID: caedd031-9d10-4717-a43f-0bb846aaa5f4
+Product: Investment Dashboard
+Description: International transfer showing incorrect exchange rate
+Category: Transaction Error
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Verify transaction in backend system and reconcile discrepancy
+--------------------------------------------------------------------------------
+
+Ticket ID: 207411
+Date: 2025-03-07 12:42:56
+Customer ID: 97ebc657-b664-4252-99ac-f392b0239071
+Product: Web Portal
+Description: Payment failed but money was deducted from my account
+Category: Transaction Error
+Root Cause: System Error
+Criticality: High
+L2/L3 Response: Escalate to payment processing team for investigation
+--------------------------------------------------------------------------------
+
+Ticket ID: 395831
+Date: 2025-03-18 18:26:56
+Customer ID: 00bd58b5-8b0c-47e7-9b2a-442092155c45
+Product: Loan Application System
+Description: Extremely slow loading times for all screens. Wear fall deal test.
+Category: App Performance
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Deploy hotfix for identified performance bottleneck
+--------------------------------------------------------------------------------
+
+Ticket ID: 181794
+Date: 2025-03-04 18:32:56
+Customer ID: 794ff16c-2ce3-4bea-8216-cf7b1ab95694
+Product: Credit Card Portal
+Description: Payment failed but money was deducted from my account
+Category: Transaction Error
+Root Cause: System Error
+Criticality: High
+L2/L3 Response: Escalate to payment processing team for investigation
+--------------------------------------------------------------------------------
+
+Ticket ID: 420948
+Date: 2025-03-10 03:20:56
+Customer ID: 761862db-3bdc-4a02-9319-6738a5ef1dcd
+Product: ATM Services
+Description: Incorrect interest calculation on my savings account
+Category: Data Discrepancy
+Root Cause: Data Issue
+Criticality: Medium
+L2/L3 Response: Verify transaction logs against core banking system
+--------------------------------------------------------------------------------
+
+Ticket ID: 27181
+Date: 2025-02-27 23:02:56
+Customer ID: 6c9f3fe5-d580-46c6-bc4a-68d3b82e1275
+Product: Bill Payment Service
+Description: International transfer showing incorrect exchange rate
+Category: Transaction Error
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Escalate to payment processing team for investigation
+--------------------------------------------------------------------------------
+
+Ticket ID: 685483
+Date: 2025-02-28 23:50:56
+Customer ID: c71cce6d-9a67-401a-9591-f168b227f419
+Product: Web Portal
+Description: Extremely slow loading times for all screens
+Category: App Performance
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Optimize database queries for user's account
+--------------------------------------------------------------------------------
+
+Ticket ID: 796758
+Date: 2025-03-26 13:49:56
+Customer ID: 9fe0db39-6c40-40bc-9f1b-eea5356c5d0e
+Product: Mobile Banking App
+Description: Payment failed but money was deducted from my account. Little drug consumer natural think.
+Category: Transaction Error
+Root Cause: System Error
+Criticality: High
+L2/L3 Response: Verify transaction in backend system and reconcile discrepancy
+--------------------------------------------------------------------------------
+
+Ticket ID: 812719
+Date: 2025-03-25 23:08:56
+Customer ID: 082c1576-220d-4d45-8524-6aa49e4ae508
+Product: Loan Application System
+Description: Biometric login not working on my device. Understand region mind place suddenly also success young.
+Category: Login Failure
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Reset user credentials and send new temporary password
+--------------------------------------------------------------------------------
+
+Ticket ID: 108892
+Date: 2025-03-08 04:36:56
+Customer ID: 66d049d3-61c3-4797-b4e8-34810881d415
+Product: Mobile Banking App
+Description: Incorrect interest calculation on my savings account
+Category: Data Discrepancy
+Root Cause: Data Issue
+Criticality: Medium
+L2/L3 Response: Escalate to data integrity team for investigation
+--------------------------------------------------------------------------------
+
+Ticket ID: 224196
+Date: 2025-03-13 04:59:56
+Customer ID: febafb7b-8dd0-4cf8-9a16-a676a34e265d
+Product: ATM Services
+Description: Biometric login not working on my device. Live state military join term later material huge.
+Category: Login Failure
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Reset biometric settings and re-enroll user's biometric data
+--------------------------------------------------------------------------------
+
+Ticket ID: 101918
+Date: 2025-03-21 18:58:56
+Customer ID: 51a8f3e4-ae54-448f-9642-613cd4719929
+Product: ATM Services
+Description: Biometric login not working on my device
+Category: Login Failure
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Reset user credentials and send new temporary password
+--------------------------------------------------------------------------------
+
+Ticket ID: 829016
+Date: 2025-03-09 21:22:56
+Customer ID: 4c476c9b-a37a-46a7-98fc-2c1fe1f7974b
+Product: Bill Payment Service
+Description: Biometric login not working on my device
+Category: Login Failure
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Clear browser cache and cookies on user device
+--------------------------------------------------------------------------------
+
+Ticket ID: 18120
+Date: 2025-03-27 00:37:56
+Customer ID: 51915d50-e94a-425b-b546-3e19dc2a8122
+Product: Bill Payment Service
+Description: International transfer showing incorrect exchange rate
+Category: Transaction Error
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Verify transaction in backend system and reconcile discrepancy
+--------------------------------------------------------------------------------
+
+Ticket ID: 795124
+Date: 2025-03-27 07:25:56
+Customer ID: 9add4b74-985a-493e-9f53-7126dc488a80
+Product: Account Management System
+Description: Biometric login not working on my device
+Category: Login Failure
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Reset biometric settings and re-enroll user's biometric data
+--------------------------------------------------------------------------------
+
+Ticket ID: 102638
+Date: 2025-03-22 09:07:56
+Customer ID: 479ad158-65e2-4fa8-bb0c-2b3f26abd431
+Product: Credit Card Portal
+Description: Extremely slow loading times for all screens. Old suffer actually energy wear.
+Category: App Performance
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Deploy hotfix for identified performance bottleneck
+--------------------------------------------------------------------------------
+
+Ticket ID: 798125
+Date: 2025-03-07 15:40:56
+Customer ID: 60411b2e-e516-437d-a132-036cb6d1c772
+Product: Account Management System
+Description: Would like to receive push notifications for large transactions. Senior event health better really issue wait.
+Category: Feature Request
+Root Cause: Enhancement Request
+Criticality: Medium
+L2/L3 Response: Conduct user research to validate feature request
+--------------------------------------------------------------------------------
+
+Ticket ID: 307137
+Date: 2025-03-16 09:19:56
+Customer ID: 2645c193-cd42-476c-9125-b36ef9223ed4
+Product: Account Management System
+Description: Incorrect interest calculation on my savings account
+Category: Data Discrepancy
+Root Cause: Data Issue
+Criticality: Medium
+L2/L3 Response: Run data reconciliation process for affected accounts
+--------------------------------------------------------------------------------
+
+Ticket ID: 2176
+Date: 2025-03-26 06:41:56
+Customer ID: 8cd2727f-695f-4886-9d04-7572b59d355c
+Product: Investment Dashboard
+Description: Payment failed but money was deducted from my account
+Category: Transaction Error
+Root Cause: System Error
+Criticality: High
+L2/L3 Response: Check for duplicate transaction IDs in database
+--------------------------------------------------------------------------------
+
+Ticket ID: 108633
+Date: 2025-03-14 13:51:56
+Customer ID: 383588d7-2a2a-4e8c-9d8b-77834b63354b
+Product: Mobile Banking App
+Description: Payment failed but money was deducted from my account
+Category: Transaction Error
+Root Cause: System Error
+Criticality: High
+L2/L3 Response: Verify transaction in backend system and reconcile discrepancy
+--------------------------------------------------------------------------------
+
+Ticket ID: 409842
+Date: 2025-03-18 04:22:56
+Customer ID: 9049ba67-c35d-4a7b-8d6c-2832a0545ca6
+Product: Investment Dashboard
+Description: Payment failed but money was deducted from my account
+Category: Transaction Error
+Root Cause: System Error
+Criticality: High
+L2/L3 Response: Initiate transaction reversal and notify customer
+--------------------------------------------------------------------------------
+
+Ticket ID: 676254
+Date: 2025-03-08 06:18:56
+Customer ID: 5ac65ddf-cc13-4ea6-9bdf-f0b4e4f8f30e
+Product: Mobile Banking App
+Description: Payment failed but money was deducted from my account
+Category: Transaction Error
+Root Cause: System Error
+Criticality: High
+L2/L3 Response: Verify transaction in backend system and reconcile discrepancy
+--------------------------------------------------------------------------------
+
+Ticket ID: 368727
+Date: 2025-03-24 18:31:56
+Customer ID: eab2ad81-a51b-453b-afe1-e423c60db5fb
+Product: Account Management System
+Description: Extremely slow loading times for all screens. Agent myself news notice know big customer.
+Category: App Performance
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Escalate to dev team for memory leak investigation
+--------------------------------------------------------------------------------
+
+Ticket ID: 171162
+Date: 2025-03-15 23:20:56
+Customer ID: e4cb2d99-778b-4167-860f-3311db5eed06
+Product: Account Management System
+Description: International transfer showing incorrect exchange rate
+Category: Transaction Error
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Check for duplicate transaction IDs in database
+--------------------------------------------------------------------------------
+
+Ticket ID: 366145
+Date: 2025-03-17 01:43:56
+Customer ID: edf6caf6-13c2-4f99-b8c2-2755f1340207
+Product: Account Management System
+Description: International transfer showing incorrect exchange rate. Raise return direction.
+Category: Transaction Error
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Verify transaction in backend system and reconcile discrepancy
+--------------------------------------------------------------------------------
+
+Ticket ID: 609960
+Date: 2025-03-25 03:59:56
+Customer ID: 827ae30e-f19c-4fba-9408-be8c0a5b88e9
+Product: Account Management System
+Description: Incorrect interest calculation on my savings account
+Category: Data Discrepancy
+Root Cause: Data Issue
+Criticality: Medium
+L2/L3 Response: Run data reconciliation process for affected accounts
+--------------------------------------------------------------------------------
+
+Ticket ID: 241515
+Date: 2025-03-23 23:10:56
+Customer ID: dc92a7b4-d27a-4337-b1a7-4a33bfab8c98
+Product: Credit Card Portal
+Description: Biometric login not working on my device. Argue air sport really per tell one.
+Category: Login Failure
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Reset user credentials and send new temporary password
+--------------------------------------------------------------------------------
+
+Ticket ID: 678859
+Date: 2025-03-10 14:42:56
+Customer ID: e43aede6-0ff0-4d5e-9cc2-41bf8cb3f72d
+Product: Web Portal
+Description: Extremely slow loading times for all screens
+Category: App Performance
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Clear app cache and reinstall latest version
+--------------------------------------------------------------------------------
+
+Ticket ID: 256752
+Date: 2025-03-12 19:39:56
+Customer ID: 82aaea85-4635-4af3-b530-55bd23571314
+Product: Account Management System
+Description: Extremely slow loading times for all screens. As source agreement indicate coach certainly.
+Category: App Performance
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Escalate to dev team for memory leak investigation
+--------------------------------------------------------------------------------
+
+Ticket ID: 448
+Date: 2025-03-01 05:12:56
+Customer ID: e0bed1ff-bef0-4145-8020-08ee081e52b7
+Product: Account Management System
+Description: International transfer showing incorrect exchange rate. Executive type college environment.
+Category: Transaction Error
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Escalate to payment processing team for investigation
+--------------------------------------------------------------------------------
+
+Ticket ID: 499449
+Date: 2025-03-12 19:09:56
+Customer ID: e7a2dc3c-3564-4943-8e28-a49ea2155c72
+Product: Bill Payment Service
+Description: Biometric login not working on my device. Hour appear hundred various.
+Category: Login Failure
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Escalate to security team for potential account compromise
+--------------------------------------------------------------------------------
+
+Ticket ID: 808743
+Date: 2025-03-13 15:47:56
+Customer ID: 639512da-58d4-4e77-9cf1-905b0c402ed9
+Product: Bill Payment Service
+Description: Payment failed but money was deducted from my account
+Category: Transaction Error
+Root Cause: System Error
+Criticality: High
+L2/L3 Response: Escalate to payment processing team for investigation
+--------------------------------------------------------------------------------
+
+Ticket ID: 574303
+Date: 2025-03-12 05:16:56
+Customer ID: cd47a9b4-ed1b-47eb-8fa4-da16d8f37531
+Product: Bill Payment Service
+Description: Biometric login not working on my device
+Category: Login Failure
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Reset biometric settings and re-enroll user's biometric data
+--------------------------------------------------------------------------------
+
+Ticket ID: 959018
+Date: 2025-03-20 06:36:56
+Customer ID: 0c5b26e9-4cf7-42c6-95a7-c18d84d29eee
+Product: ATM Services
+Description: Extremely slow loading times for all screens. Use fly future agree from civil.
+Category: App Performance
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Escalate to dev team for memory leak investigation
+--------------------------------------------------------------------------------
+
+Ticket ID: 24007
+Date: 2025-03-14 16:21:56
+Customer ID: 6a74d92d-c91f-4f2a-b09b-31eabdab3bcd
+Product: Investment Dashboard
+Description: Payment failed but money was deducted from my account
+Category: Transaction Error
+Root Cause: System Error
+Criticality: High
+L2/L3 Response: Verify transaction in backend system and reconcile discrepancy
+--------------------------------------------------------------------------------
+
+Ticket ID: 655113
+Date: 2025-03-25 23:19:56
+Customer ID: 03530905-6eff-4e5f-bdc4-647dbc7bf07e
+Product: Account Management System
+Description: Incorrect interest calculation on my savings account
+Category: Data Discrepancy
+Root Cause: Data Issue
+Criticality: Medium
+L2/L3 Response: Run data reconciliation process for affected accounts
+--------------------------------------------------------------------------------
+
+Ticket ID: 829062
+Date: 2025-03-18 18:11:56
+Customer ID: 3f724a15-c1d0-4224-95e9-b921cf4426d2
+Product: Investment Dashboard
+Description: Biometric login not working on my device. Guy hope floor college finally draw.
+Category: Login Failure
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Reset biometric settings and re-enroll user's biometric data
+--------------------------------------------------------------------------------
+
+Ticket ID: 723891
+Date: 2025-03-03 22:27:56
+Customer ID: fc7ab694-041c-4204-9b64-9ec4a5376c12
+Product: Web Portal
+Description: Incorrect interest calculation on my savings account. Create quite television make common once behind.
+Category: Data Discrepancy
+Root Cause: Data Issue
+Criticality: Medium
+L2/L3 Response: Escalate to data integrity team for investigation
+--------------------------------------------------------------------------------
+
+Ticket ID: 79156
+Date: 2025-03-02 22:58:56
+Customer ID: 8bd1ab3a-cdc9-4c19-b1b2-3d703f6dc03b
+Product: Account Management System
+Description: Extremely slow loading times for all screens. Old final head else collection song agent such.
+Category: App Performance
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Check for conflicting background processes on user device
+--------------------------------------------------------------------------------
+
+Ticket ID: 902025
+Date: 2025-03-14 01:20:56
+Customer ID: 84b26a9c-b414-4b5a-9140-aae0481b8712
+Product: Mobile Banking App
+Description: Payment failed but money was deducted from my account
+Category: Transaction Error
+Root Cause: System Error
+Criticality: High
+L2/L3 Response: Initiate transaction reversal and notify customer
+--------------------------------------------------------------------------------
+
+Ticket ID: 577847
+Date: 2025-03-10 08:04:56
+Customer ID: 39d9a9b0-6219-4646-a075-492ce55ef82e
+Product: Bill Payment Service
+Description: Extremely slow loading times for all screens
+Category: App Performance
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Deploy hotfix for identified performance bottleneck
+--------------------------------------------------------------------------------
+
+Ticket ID: 712884
+Date: 2025-03-11 20:23:56
+Customer ID: 75f5f527-57c6-4ddb-aef8-df87852e7706
+Product: Web Portal
+Description: International transfer showing incorrect exchange rate
+Category: Transaction Error
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Verify integration with external payment gateway
+--------------------------------------------------------------------------------
+
+Ticket ID: 442238
+Date: 2025-03-13 15:19:56
+Customer ID: 876cf840-1cdd-4e63-aeda-69cc6403e6a5
+Product: Account Management System
+Description: Biometric login not working on my device
+Category: Login Failure
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Escalate to security team for potential account compromise
+--------------------------------------------------------------------------------
+
+Ticket ID: 202217
+Date: 2025-03-22 07:13:56
+Customer ID: 87e8f7c7-c4c1-4976-a3b1-769a59dc8362
+Product: Account Management System
+Description: Biometric login not working on my device
+Category: Login Failure
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Reset biometric settings and re-enroll user's biometric data
+--------------------------------------------------------------------------------
+
+Ticket ID: 843498
+Date: 2025-03-01 19:27:56
+Customer ID: c53bcfea-8d53-49ad-be18-573042cddafc
+Product: Web Portal
+Description: Incorrect interest calculation on my savings account. Hard hour maintain professor economic.
+Category: Data Discrepancy
+Root Cause: Data Issue
+Criticality: Medium
+L2/L3 Response: Run data reconciliation process for affected accounts
+--------------------------------------------------------------------------------
+
+Ticket ID: 128263
+Date: 2025-02-25 07:09:56
+Customer ID: 485c596d-87bb-4f73-bafb-0d415d2611c4
+Product: Credit Card Portal
+Description: International transfer showing incorrect exchange rate
+Category: Transaction Error
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Check for duplicate transaction IDs in database
+--------------------------------------------------------------------------------
+
+Ticket ID: 868149
+Date: 2025-03-16 04:17:56
+Customer ID: c31ecd40-57b2-4b83-a6dc-a4fadc60c84f
+Product: Credit Card Portal
+Description: International transfer showing incorrect exchange rate. Anyone of firm yes rule.
+Category: Transaction Error
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Check for duplicate transaction IDs in database
+--------------------------------------------------------------------------------
+
+Ticket ID: 318380
+Date: 2025-03-22 17:47:56
+Customer ID: 7a8c97bc-e1c7-4aae-8f1e-8dd34ffb24be
+Product: Web Portal
+Description: International transfer showing incorrect exchange rate
+Category: Transaction Error
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Check for duplicate transaction IDs in database
+--------------------------------------------------------------------------------
+
+Ticket ID: 395523
+Date: 2025-03-01 05:53:56
+Customer ID: 766f71ae-8a61-4cb3-b7e9-1b2a83d8d5a3
+Product: ATM Services
+Description: Biometric login not working on my device
+Category: Login Failure
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Escalate to security team for potential account compromise
+--------------------------------------------------------------------------------
+
+Ticket ID: 117089
+Date: 2025-02-28 20:52:56
+Customer ID: f2cbf374-2eba-4fa1-9ff1-318945f8b1ba
+Product: Loan Application System
+Description: Biometric login not working on my device. North thousand against organization.
+Category: Login Failure
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Update authentication service and restart
+--------------------------------------------------------------------------------
+
+Ticket ID: 182788
+Date: 2025-03-08 03:25:56
+Customer ID: 5fb1e469-d651-4f0a-b07b-4ec9c68263b5
+Product: Mobile Banking App
+Description: Biometric login not working on my device
+Category: Login Failure
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Reset user credentials and send new temporary password
+--------------------------------------------------------------------------------
+
+Ticket ID: 814730
+Date: 2025-03-06 02:13:56
+Customer ID: db13673a-85d6-46c8-ac27-5cc5ed6ee972
+Product: Web Portal
+Description: Extremely slow loading times for all screens
+Category: App Performance
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Escalate to dev team for memory leak investigation
+--------------------------------------------------------------------------------
+
+Ticket ID: 947514
+Date: 2025-03-09 04:25:56
+Customer ID: 4191e3a1-6104-4c14-b127-016ab85a0a58
+Product: Investment Dashboard
+Description: Extremely slow loading times for all screens
+Category: App Performance
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Clear app cache and reinstall latest version
+--------------------------------------------------------------------------------
+
+Ticket ID: 382879
+Date: 2025-03-05 08:33:56
+Customer ID: 36616b1e-cb94-4303-acb8-0880357fec77
+Product: Credit Card Portal
+Description: Biometric login not working on my device. Hold rich score specific main.
+Category: Login Failure
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Escalate to security team for potential account compromise
+--------------------------------------------------------------------------------
+
+Ticket ID: 976150
+Date: 2025-03-09 08:30:56
+Customer ID: 89a920c9-a6cc-4cf8-bd25-d5ccc503bff9
+Product: Credit Card Portal
+Description: Payment failed but money was deducted from my account
+Category: Transaction Error
+Root Cause: System Error
+Criticality: High
+L2/L3 Response: Verify transaction in backend system and reconcile discrepancy
+--------------------------------------------------------------------------------
+
+Ticket ID: 535674
+Date: 2025-03-05 14:16:56
+Customer ID: d0ac3451-5687-4d33-a4bb-e981ccbbf26c
+Product: Mobile Banking App
+Description: International transfer showing incorrect exchange rate. Push responsibility result none number security shake.
+Category: Transaction Error
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Check for duplicate transaction IDs in database
+--------------------------------------------------------------------------------
+
+Ticket ID: 64159
+Date: 2025-02-24 17:57:56
+Customer ID: 20b20c70-d166-479e-afb2-fddab2f96b9f
+Product: Mobile Banking App
+Description: Extremely slow loading times for all screens
+Category: App Performance
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Clear app cache and reinstall latest version
+--------------------------------------------------------------------------------
+
+Ticket ID: 208501
+Date: 2025-03-15 20:41:56
+Customer ID: d4bba90d-8661-4471-aaad-b991df8e59e3
+Product: Account Management System
+Description: Extremely slow loading times for all screens
+Category: App Performance
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Deploy hotfix for identified performance bottleneck
+--------------------------------------------------------------------------------
+
+Ticket ID: 318279
+Date: 2025-03-27 02:39:56
+Customer ID: f05c390c-e464-40ab-8340-0387b1a3377e
+Product: Mobile Banking App
+Description: Extremely slow loading times for all screens
+Category: App Performance
+Root Cause: System Error
+Criticality: Medium
+L2/L3 Response: Escalate to dev team for memory leak investigation
+--------------------------------------------------------------------------------
+
+Ticket ID: 695436
+Date: 2025-03-19 11:51:56
+Customer ID: 6a9212e3-dee1-4a60-a49f-f891f5dd9bb0
+Product: Mobile Banking App
+Description: Payment failed but money was deducted from my account
+Category: Transaction Error
+Root Cause: System Error
+Criticality: High
+L2/L3 Response: Escalate to payment processing team for investigation
+--------------------------------------------------------------------------------
+
