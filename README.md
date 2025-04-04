@@ -1,3 +1,15 @@
+## 📄 Author
+
+**Alexis Reyna Santa Cruz Crespo**  
+MSc in Artificial Intelligence for Business – National College of Ireland  
+Student ID: 23277483  
+GitHub: [AlexisSCC](https://github.com/AlexisSCC) *(official project repository)*  
+Project submitted for the module: *Intelligent Agents and Process Automation*  
+Lecturer: Shreyas Setlir Arun  
+Submission Date: April 2025
+
+
+
 # IT Support Ticket Triage Automation
 
 An automated system for triaging IT support tickets in a digital banking platform. This system processes support ticket data, categorizes issues using NLP, assesses criticality, groups by root cause, escalates tickets to L2/L3 support, generates customer feedback, and visualizes key metrics.
